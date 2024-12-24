@@ -1,0 +1,12 @@
+.tex{
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, sans-serif;
+    text-indent: 1cm;
+}
+.Z{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 35px;
+}
+
